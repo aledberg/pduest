@@ -1,6 +1,6 @@
 # pduest
 Data and code for estimating the number of problem drug users in Sweden. This project was commissioned by the Swedish SOU Narkotikautredningen (S 2022:01)
-and is an adaptation of the method described in Jones et al. 2020, Addiction, 115: 2393-2404. 
+and is an adaptation of the method described in [Jones et al. 2020, Addiction, 115: 2393-2404](https://doi.org/10.1111/add.15111). 
 
 ---
 ## Data sources
